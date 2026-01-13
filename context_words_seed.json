@@ -1,0 +1,251 @@
+[
+  {
+    "wordUrdu": "ٹھیک",
+    "romanUrdu": "theek",
+    "baseEnglish": "okay/fine/correct",
+    "senses": [
+      {
+        "labelEnglish": "Agreement",
+        "meaningEnglish": "Okay, alright, agreed",
+        "contextEnglish": "Used to show acceptance or agreement",
+        "register": "neutral",
+        "tone": "neutral",
+        "usageType": "literal",
+        "usageNotesEnglish": "Most common usage in everyday conversation",
+        "exampleUrdu": "ٹھیک ہے، میں آتا ہوں",
+        "exampleEnglish": "Okay, I'm coming",
+        "tipsEnglish": "Use this when you agree to do something"
+      },
+      {
+        "labelEnglish": "Health/Wellbeing",
+        "meaningEnglish": "Fine, well, healthy",
+        "contextEnglish": "Referring to someone's health or condition",
+        "register": "neutral",
+        "tone": "polite",
+        "usageType": "literal",
+        "usageNotesEnglish": "Common in greetings and health inquiries",
+        "exampleUrdu": "کیا آپ ٹھیک ہیں؟",
+        "exampleEnglish": "Are you okay/fine?",
+        "tipsEnglish": "Use when asking about someone's wellbeing"
+      },
+      {
+        "labelEnglish": "Correctness",
+        "meaningEnglish": "Correct, right, proper",
+        "contextEnglish": "Indicating something is accurate or proper",
+        "register": "neutral",
+        "tone": "neutral",
+        "usageType": "literal",
+        "usageNotesEnglish": "Used for validation or correction",
+        "exampleUrdu": "یہ جواب ٹھیک ہے",
+        "exampleEnglish": "This answer is correct",
+        "tipsEnglish": "Use when confirming accuracy"
+      }
+    ],
+    "scenarios": [
+      {
+        "promptEnglish": "Your friend asks if you want to go to the movies",
+        "promptUrdu": "آپ کا دوست پوچھتا ہے کیا آپ سینما جانا چاہتے ہیں",
+        "correctSenseIndex": 0,
+        "explanationEnglish": "Here ٹھیک means \"okay/agreed\" showing acceptance"
+      },
+      {
+        "promptEnglish": "Someone fell down and you ask about their condition",
+        "promptUrdu": "کوئی گر گیا اور آپ ان کی حالت کے بارے میں پوچھتے ہیں",
+        "correctSenseIndex": 1,
+        "explanationEnglish": "Here ٹھیک means \"fine/okay\" referring to health"
+      }
+    ],
+    "tags": [
+      "common",
+      "multipurpose",
+      "essential"
+    ],
+    "difficulty": "beginner",
+    "seedVersion": 2
+  },
+  {
+    "wordUrdu": "کر",
+    "romanUrdu": "kar",
+    "baseEnglish": "do/make/after",
+    "senses": [
+      {
+        "labelEnglish": "Action Verb",
+        "meaningEnglish": "To do, to make",
+        "contextEnglish": "Main verb indicating an action",
+        "register": "neutral",
+        "tone": "neutral",
+        "usageType": "literal",
+        "exampleUrdu": "کام کر",
+        "exampleEnglish": "Do the work",
+        "tipsEnglish": "Used as the primary action verb"
+      },
+      {
+        "labelEnglish": "Sequential Action",
+        "meaningEnglish": "After doing, having done",
+        "contextEnglish": "Indicates one action followed by another",
+        "register": "neutral",
+        "tone": "neutral",
+        "usageType": "literal",
+        "exampleUrdu": "کھانا کھا کر آنا",
+        "exampleEnglish": "Come after eating",
+        "tipsEnglish": "Connect two sequential actions"
+      }
+    ],
+    "tags": [
+      "verb",
+      "essential",
+      "grammar"
+    ],
+    "difficulty": "beginner",
+    "seedVersion": 2
+  },
+  {
+    "wordUrdu": "حال",
+    "romanUrdu": "haal",
+    "baseEnglish": "condition/state/present time",
+    "senses": [
+      {
+        "labelEnglish": "Condition/State",
+        "meaningEnglish": "Condition, state, situation",
+        "contextEnglish": "Referring to someone's current condition",
+        "register": "formal",
+        "tone": "polite",
+        "usageType": "literal",
+        "usageNotesEnglish": "Common in polite inquiries",
+        "exampleUrdu": "آپ کا حال کیسا ہے؟",
+        "exampleEnglish": "How are you? (How is your condition?)",
+        "tipsEnglish": "More formal than \"کیا حال ہے\""
+      },
+      {
+        "labelEnglish": "Present Time",
+        "meaningEnglish": "Present, current time, now",
+        "contextEnglish": "Temporal reference to the present",
+        "register": "formal",
+        "tone": "neutral",
+        "usageType": "literal",
+        "exampleUrdu": "حال میں کیا ہو رہا ہے؟",
+        "exampleEnglish": "What's happening currently?",
+        "tipsEnglish": "Similar to \"ابھی\" or \"اب\""
+      },
+      {
+        "labelEnglish": "Ecstasy/Trance",
+        "meaningEnglish": "State of spiritual ecstasy",
+        "contextEnglish": "Sufi/spiritual context describing mystical state",
+        "register": "formal",
+        "tone": "neutral",
+        "usageType": "figurative",
+        "exampleUrdu": "صوفی حال میں تھا",
+        "exampleEnglish": "The Sufi was in a state of ecstasy",
+        "tipsEnglish": "Used in spiritual or poetic contexts"
+      }
+    ],
+    "scenarios": [
+      {
+        "promptEnglish": "Meeting an elder and asking about their wellbeing",
+        "correctSenseIndex": 0,
+        "explanationEnglish": "Use حال for polite inquiry about condition"
+      }
+    ],
+    "tags": [
+      "formal",
+      "multipurpose",
+      "cultural"
+    ],
+    "difficulty": "intermediate",
+    "seedVersion": 2
+  },
+  {
+    "wordUrdu": "دل",
+    "romanUrdu": "dil",
+    "baseEnglish": "heart",
+    "senses": [
+      {
+        "labelEnglish": "Physical Heart",
+        "meaningEnglish": "The heart organ",
+        "contextEnglish": "Literal anatomical reference",
+        "register": "neutral",
+        "tone": "neutral",
+        "usageType": "literal",
+        "exampleUrdu": "اس کا دل بہت تیز دھڑک رہا ہے",
+        "exampleEnglish": "His heart is beating very fast",
+        "tipsEnglish": "Medical or physical context"
+      },
+      {
+        "labelEnglish": "Emotions/Feelings",
+        "meaningEnglish": "Heart as center of emotions",
+        "contextEnglish": "Emotional or romantic context",
+        "register": "informal",
+        "tone": "neutral",
+        "usageType": "figurative",
+        "exampleUrdu": "میرا دل ٹوٹ گیا",
+        "exampleEnglish": "My heart broke (I was heartbroken)",
+        "tipsEnglish": "Most common usage in everyday speech"
+      },
+      {
+        "labelEnglish": "Desire/Wish",
+        "meaningEnglish": "Wish, desire, inclination",
+        "contextEnglish": "Expressing wants or preferences",
+        "register": "informal",
+        "tone": "neutral",
+        "usageType": "idiomatic",
+        "exampleUrdu": "دل چاہتا ہے باہر جاؤں",
+        "exampleEnglish": "I feel like going out (My heart wants to go out)",
+        "tipsEnglish": "Expresses inner desires"
+      }
+    ],
+    "tags": [
+      "emotions",
+      "common",
+      "poetic"
+    ],
+    "difficulty": "intermediate",
+    "seedVersion": 2
+  },
+  {
+    "wordUrdu": "ادب",
+    "romanUrdu": "adab",
+    "baseEnglish": "literature/respect/manners",
+    "senses": [
+      {
+        "labelEnglish": "Literature",
+        "meaningEnglish": "Literature, literary works",
+        "contextEnglish": "Academic or intellectual discourse",
+        "register": "formal",
+        "tone": "neutral",
+        "usageType": "literal",
+        "exampleUrdu": "اردو ادب بہت مالا مال ہے",
+        "exampleEnglish": "Urdu literature is very rich",
+        "tipsEnglish": "Used in academic contexts"
+      },
+      {
+        "labelEnglish": "Respect/Etiquette",
+        "meaningEnglish": "Respect, manners, etiquette",
+        "contextEnglish": "Social and cultural behavioral norms",
+        "register": "formal",
+        "tone": "polite",
+        "usageType": "literal",
+        "exampleUrdu": "بڑوں کا ادب کرو",
+        "exampleEnglish": "Show respect to elders",
+        "tipsEnglish": "Core cultural value in Pakistani society"
+      },
+      {
+        "labelEnglish": "Greeting",
+        "meaningEnglish": "Formal greeting (آداب)",
+        "contextEnglish": "Traditional Muslim greeting",
+        "register": "formal",
+        "tone": "polite",
+        "usageType": "literal",
+        "exampleUrdu": "آداب عرض ہے",
+        "exampleEnglish": "Greetings (formal salutation)",
+        "tipsEnglish": "Classical formal greeting, still used"
+      }
+    ],
+    "tags": [
+      "formal",
+      "cultural",
+      "sophisticated"
+    ],
+    "difficulty": "advanced",
+    "seedVersion": 2
+  }
+]

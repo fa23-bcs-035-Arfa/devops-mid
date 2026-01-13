@@ -1,0 +1,172 @@
+[
+  {
+    "level": 1,
+    "word": {
+      "urdu": "کتاب",
+      "romanUrdu": "kitaab",
+      "english": "book"
+    },
+    "partOfSpeech": "noun",
+    "examples": [
+      {
+        "urdu": "میں کتاب پڑھتا ہوں",
+        "english": "I read a book"
+      },
+      {
+        "urdu": "یہ کتاب دلچسپ ہے",
+        "english": "This book is interesting"
+      }
+    ],
+    "synonyms": [
+      "کتابچہ"
+    ],
+    "category": "everyday objects",
+    "difficulty": "beginner"
+  },
+  {
+    "level": 1,
+    "word": {
+      "urdu": "قلم",
+      "romanUrdu": "qalam",
+      "english": "pen"
+    },
+    "partOfSpeech": "noun",
+    "examples": [
+      {
+        "urdu": "مجھے ایک قلم چاہیے",
+        "english": "I need a pen"
+      },
+      {
+        "urdu": "یہ قلم کام نہیں کر رہا",
+        "english": "This pen is not working"
+      }
+    ],
+    "category": "everyday objects",
+    "difficulty": "beginner"
+  },
+  {
+    "level": 1,
+    "word": {
+      "urdu": "پانی",
+      "romanUrdu": "paani",
+      "english": "water"
+    },
+    "partOfSpeech": "noun",
+    "examples": [
+      {
+        "urdu": "مجھے پانی پینا ہے",
+        "english": "I want to drink water"
+      },
+      {
+        "urdu": "پانی ٹھنڈا ہے",
+        "english": "The water is cold"
+      }
+    ],
+    "category": "food and drink",
+    "difficulty": "beginner"
+  },
+  {
+    "level": 10,
+    "word": {
+      "urdu": "خوابیدہ",
+      "romanUrdu": "khwabida",
+      "english": "asleep, dormant"
+    },
+    "partOfSpeech": "adjective",
+    "examples": [
+      {
+        "urdu": "بچہ خوابیدہ ہے، شور مت کرو",
+        "english": "The child is asleep, don't make noise"
+      },
+      {
+        "urdu": "ان کی صلاحیتیں خوابیدہ ہیں",
+        "english": "Their talents are dormant"
+      }
+    ],
+    "synonyms": [
+      "سویا ہوا",
+      "نیند میں"
+    ],
+    "antonyms": [
+      "بیدار",
+      "جاگتا"
+    ],
+    "category": "descriptive",
+    "difficulty": "intermediate"
+  },
+  {
+    "level": 10,
+    "word": {
+      "urdu": "کوشش",
+      "romanUrdu": "koshish",
+      "english": "effort, attempt"
+    },
+    "partOfSpeech": "noun",
+    "examples": [
+      {
+        "urdu": "اس نے بہت کوشش کی لیکن ناکام رہا",
+        "english": "He tried very hard but failed"
+      },
+      {
+        "urdu": "کوشش کرنے والوں کی کبھی ہار نہیں ہوتی",
+        "english": "Those who try never truly lose"
+      }
+    ],
+    "synonyms": [
+      "محنت",
+      "جدوجہد"
+    ],
+    "category": "abstract concepts",
+    "difficulty": "intermediate"
+  },
+  {
+    "level": 20,
+    "word": {
+      "urdu": "استعارہ",
+      "romanUrdu": "isti'aara",
+      "english": "metaphor"
+    },
+    "partOfSpeech": "noun",
+    "examples": [
+      {
+        "urdu": "شاعر نے اپنی نظم میں خوبصورت استعارے استعمال کیے",
+        "english": "The poet used beautiful metaphors in his poem"
+      },
+      {
+        "urdu": "یہ محض ایک استعارہ ہے، لفظی معنی نہیں",
+        "english": "This is merely a metaphor, not literal meaning"
+      }
+    ],
+    "category": "literary terms",
+    "difficulty": "advanced"
+  },
+  {
+    "level": 20,
+    "word": {
+      "urdu": "تعصب",
+      "romanUrdu": "ta'assub",
+      "english": "prejudice, bias"
+    },
+    "partOfSpeech": "noun",
+    "examples": [
+      {
+        "urdu": "معاشرے میں تعصب ختم ہونا چاہیے",
+        "english": "Prejudice should be eliminated from society"
+      },
+      {
+        "urdu": "اس کے فیصلے میں تعصب نظر آتا ہے",
+        "english": "Bias is visible in his decision"
+      }
+    ],
+    "synonyms": [
+      "تنگ نظری",
+      "جانبداری"
+    ],
+    "antonyms": [
+      "انصاف",
+      "غیرجانبداری"
+    ],
+    "category": "social concepts",
+    "difficulty": "advanced"
+  }
+]
