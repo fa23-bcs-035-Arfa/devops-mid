@@ -28,7 +28,7 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: arfa035/fa23-bcs-035:latest
+          tags: arfa035/urdu-learner-app1:latest
           # These flags prevent the "400 Bad Request" metadata errors
           provenance: false
           sbom: false
